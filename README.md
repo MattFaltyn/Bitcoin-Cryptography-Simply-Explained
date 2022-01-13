@@ -21,5 +21,3 @@ This book is for informational purposes only. It is not intended to be investmen
 
 ## Contact
 Mateusz (Matthew) Faltyn
-
-Twitter: [@MattFaltyn](https://twitter.com/MattFaltyn)
